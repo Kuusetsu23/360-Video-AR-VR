@@ -1,0 +1,23 @@
+# ninja log v5
+21	2795	7860775431886853	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	891c11068e54cde5
+87	744	7860775411072905	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	ebad69a7b381594
+745	1223	7860775414720812	D:/1. Project/3. AR VR/Marker and 360 Video/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/l4v5v4l6/obj/arm64-v8a/libswappywrapper.so	7f1b10f877d6fdf3
+50	2168	7860775425460042	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	ad524ca97664b81e
+31	2212	7860775425903566	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	8e38852f9eead039
+72	2271	7860775426539397	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	2f26ac319dec550c
+1	2246	7860775426292462	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	50d30b4306065f33
+59	2428	7860775428168017	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	c596a0c0409a6152
+11	2326	7860775427043024	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	c73c93ac790905de
+40	2579	7860775429714181	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	fe57b09ea38472e8
+2795	2900	7860775432965119	D:/1. Project/3. AR VR/Marker and 360 Video/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/l4v5v4l6/obj/arm64-v8a/libgame.so	67035760313e4ec3
+94	525	7862129444893350	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	ebad69a7b381594
+525	849	7862129447929906	D:/1. Project/3. AR VR/Marker and 360 Video/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/l4v5v4l6/obj/arm64-v8a/libswappywrapper.so	7f1b10f877d6fdf3
+45	2022	7862129459851497	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	8e38852f9eead039
+54	2024	7862129459886858	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	ad524ca97664b81e
+23	2071	7862129460300220	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	c73c93ac790905de
+65	2075	7862129460330434	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	2f26ac319dec550c
+14	2171	7862129461358367	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	50d30b4306065f33
+75	2354	7862129463094604	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	fe57b09ea38472e8
+33	2462	7862129464244232	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	891c11068e54cde5
+86	2528	7862129464852623	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	c596a0c0409a6152
+2528	2648	7862129466162492	D:/1. Project/3. AR VR/Marker and 360 Video/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/l4v5v4l6/obj/arm64-v8a/libgame.so	67035760313e4ec3
