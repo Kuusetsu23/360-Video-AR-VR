@@ -95,14 +95,11 @@ Proyek dikembangkan menggunakan:
 
 Karena GitHub memiliki limit 100MB, seluruh video dan file besar disimpan di Google Drive.
 
-### 📥 Video Minecraft 360 (VR)
-🔗 https://drive.google.com/your-link-here
+### 📥 [Assets\Resources\Video](https://drive.google.com/drive/folders/1TCinOuc1otJbb3nK2Tmf90beLYx8ha87?usp=sharing)
 
-### 📥 Aplikasi Hasil Build (apk)
-🔗 https://drive.google.com/your-link-here
+### 📥 [Aplikasi Hasil Build](https://drive.google.com/drive/folders/1rSSt7W_3GGmf0X_B3p2FkZuFo0_l5cC7?usp=sharing)
 
-### 📥 Video Demo UAS (maks 7 menit)
-🔗 https://drive.google.com/your-demo-link-here
+### 📥 [Video Demo UAS]( https://drive.google.com/drive/folders/1g0JUjGxB4gfBJVSMCv8RSqPa7dRSGkt5?usp=sharing)
 
 ---
 
